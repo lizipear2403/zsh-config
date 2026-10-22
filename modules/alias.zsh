@@ -2,6 +2,8 @@
 # 别名分类整理
 # ============================================================
 
+alias getidf='source $HOME/esp/esp-idf/export.sh'
+
 alias ccp='clipcopy'
 # 后缀别名
 alias -s md='mlux'
