@@ -2,7 +2,7 @@
 # 别名分类整理
 # ============================================================
 
-alias getidf='source $HOME/esp/v6.0.1/export.sh'
+alias getidf='source $HOME/.espressif/python_env/idf6.0_py3.12_env/bin/activate  &&  source $HOME/esp/v6.0.1/export.sh'
 
 alias ccp='clipcopy'
 # 后缀别名
