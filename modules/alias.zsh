@@ -4,6 +4,9 @@
 
 alias getidf='source $HOME/.espressif/python_env/idf6.0_py3.12_env/bin/activate  &&  source $HOME/esp/v6.0.1/export.sh'
 
+alias gaa='git add -A'
+alias gst='git status'
+
 alias ccp='clipcopy'
 # 后缀别名
 alias -s md='mlux'
@@ -13,7 +16,6 @@ alias vim='nvim'
 # 系统操作
 # ============================================================
 alias c="clear"                          # 清屏
-alias  	c=clear
 
 # 安全执行（禁止 zsh 自动纠错）
 alias  	cp='nocorrect cp'
